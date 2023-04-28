@@ -9,6 +9,8 @@ Soy muy apacionado por estas nuevas tecnologias
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://i.postimg.cc/28FP5fsP/vuejs-original-wordmark-logo-icon.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/laravel_plain_wordmark_logo_icon_146439.png">
+  
 </div>
   
   ##
